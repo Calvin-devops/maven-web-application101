@@ -14,7 +14,7 @@
 	Landmark Technologies is a software development company. 
 	Class26 will run from January 2 - Febuary 20th, 2025.
 	The shout of the King Jesus is in our midst. HE IS OUR SUCCESS ACCESS KEY 
-        CALVIN MADE THIS CHANGES</h2>
+        CHANGE IS COMING, KEEP PUSHING</h2>
 <hr>
 <div style="text-align: center;">
 	<span>
