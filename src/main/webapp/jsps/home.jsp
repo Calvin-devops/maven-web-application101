@@ -13,7 +13,7 @@
 <h2 align="center"> We are supporting the PayPal FinTech Project.
 	Landmark Technologies is a software development company. 
 	Class25 will run from January 2 - Febuary 20th, 2025.. 
-        CHANGE IS COMING, KEEP PUSHING</h2>
+        CHANGE IS COMMING, KEEP PUSHING</h2>
 <hr>
 <div style="text-align: center;">
 	<span>
