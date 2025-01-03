@@ -11,7 +11,7 @@
 <body>
 <h1 align="center">Welcome to Landmark Technologies.</h1>
 <h2 align="center"> We are supporting the PayPal FinTech Project.
-	Landmark Technologies is a software development company. 
+	Landmark Technologies is software development company. 
 	Class25 will run from January 2 - Febuary 20th, 2025.. 
         CHANGE IS COMMING, KEEP PUSHING</h2>
 <hr>
