@@ -13,7 +13,8 @@
 <h2 align="center"> We are supporting the Ebay Black Friday Project.
 	Landmark Technologies is a software development company. 
 	Class26 will run from January 2, 2024.
-	The shout of the King Jesus is in our midst. HE IS OUR SUCCESS ACCESS KEY CALVIN MADE THIS CHANGES</h2>
+	The shout of the King Jesus is in our midst. HE IS OUR SUCCESS ACCESS KEY 
+        CALVIN MADE THIS CHANGES</h2>
 <hr>
 <div style="text-align: center;">
 	<span>
